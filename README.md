@@ -3,18 +3,18 @@
 This repo contains the full documentation for our EG1311 project at the National University of Singapore.  
 Our goal: build a fully functional teleoperated robot that is as light as possible without compromising performance.
 
-### 🎯 Task Objective
+###  Task Objective
 - Traverse an obstacle course via in-built commands
 - Detect and stop at a wall using an ultrasonic sensor  
 - Launch a ball over the wall  
 - Reverse back to the starting point
 
-✅ Achievements:  
+### Achievements:  
 - Scored 10/10  
 - Lightest robot among all teams  
 - Successfully completed all task requirements
 
-🔧 Tools & Skills
+### Tools & Skills
 - Fusion 360 (CAD Design)
 - 3D Printing & Prototyping
 - Weight Optimization
