@@ -3,6 +3,9 @@
 This repo contains the full documentation for our EG1311 project at the National University of Singapore.  
 Our goal: build a fully functional teleoperated robot that is as light as possible without compromising performance.
 
+## Video Demonstration
+* https://youtu.be/nB-nhqahIQ0
+
 ###  Task Objective
 - Traverse an obstacle course via in-built commands
 - Detect and stop at a wall using an ultrasonic sensor  
